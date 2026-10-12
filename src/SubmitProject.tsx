@@ -1,5 +1,5 @@
 // Paste the Google Form's share link here.
-const FORM_URL = "https://forms.gle/WCubQDr5QPJULnHt7";
+const FORM_URL = "";
 
 const SubmitProject = () => {
   return (
